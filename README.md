@@ -1,4 +1,7 @@
-### Hi there 👋
+```cpp
+bool greeting = vanakkam() || namaste() || helloThere();
+```
+### :wave: Welcome to my Github!
 
 <!--
 **Blend3rman/Blend3rman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I like making cool stuff! Just like you! 🤩
+
+- 🌱 I’m currently (re)learning C++, Python and JavaScript!
