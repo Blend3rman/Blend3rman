@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 ### I like making cool stuff! Just like you! 🤩
 
-- 🌱 I’m currently (re)learning C++, Python and JavaScript!
+🌱 I’m currently (re)learning C++, Python and JavaScript!
